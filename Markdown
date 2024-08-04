@@ -1,0 +1,25 @@
+# (c) @SANCHIT0102 | @PUBLIC_BOTS
+
+UNDERLINE =    <u>{post_caption}</u>
+
+
+BOLD      =   **{file_name}**   or <b>{file_name}</b>
+
+
+ITALIC    =  __{post_caption}__ or <i>{post_caption}</i>
+
+
+CODE      =       `{file_size}` or <code>{file_size}</code>  
+
+
+QUOTE     =       > {file_name} or <blockquote>{file_name}</blockquote>
+
+
+STRIKE    =     ~~{file_size}~~ or <s>{file_size}</s>
+
+
+SPOILER   =     ||{file_name}|| or <spoiler>{file_name}</spoiler>
+ 
+ 
+HYPERLINK = [{post_caption}](https://t.me/Public_Caption_Bot)                                                                                           
+    
